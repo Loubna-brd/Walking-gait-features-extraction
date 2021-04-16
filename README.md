@@ -1,14 +1,16 @@
 # Walking-gait-features-extraction
 
-- [Heading](#heading)
-  * [Sub-heading](#sub-heading)
-    + [Sub-sub-heading](#sub-sub-heading)
-- [Heading](#heading-1)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
-- [Heading](#heading-2)
-  * [Sub-heading](#sub-heading-2)
-    + [Sub-sub-heading](#sub-sub-heading-2)
+## Table of Content
+
+- [Description](#heading)
+
+- [Extraction of all stepping instances](#heading)
+
+- [Stride Detection](#heading)
+
+- [Features Extraction](#heading)
+
+- [Demo with sample data](#heading)
 
 
 # Heading levels
