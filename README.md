@@ -4,53 +4,21 @@
 
 - [Description](#heading)
 
-- [Extraction of all stepping instances](#heading)
+- [Extraction of all stepping instances](#heading-1)
 
-- [Stride Detection](#heading)
+- [Stride Detection](#heading-2)
 
-- [Features Extraction](#heading)
+- [Features Extraction](#heading-3)
 
-- [Demo with sample data](#heading)
+- [Demo with sample data](#heading-4)
 
 
-# Heading levels
+## Description
 
-> This is a fixture to test heading levels
+## Extraction of all stepping instances
 
-<!-- toc -->
+## Stride Detection
 
-## Heading
+## Features Extraction
 
-This is an h1 heading
-
-### Sub-heading
-
-This is an h2 heading
-
-#### Sub-sub-heading
-
-This is an h3 heading
-
-## Heading
-
-This is an h1 heading
-
-### Sub-heading
-
-This is an h2 heading
-
-#### Sub-sub-heading
-
-This is an h3 heading
-
-## Heading
-
-This is an h1 heading
-
-### Sub-heading
-
-This is an h2 heading
-
-#### Sub-sub-heading
-
-This is an h3 heading
+## Demo with sample data
