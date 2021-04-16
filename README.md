@@ -2,15 +2,15 @@
 
 ## Table of Content
 
-- [Description](#heading)
+- [Description](#sub-heading)
 
-- [Extraction of all stepping instances](#heading-1)
+- [Extraction of all stepping instances](#sub-heading-1)
 
-- [Stride Detection](#heading-2)
+- [Stride Detection](#sub-heading-2)
 
-- [Features Extraction](#heading-3)
+- [Features Extraction](#sub-heading-3)
 
-- [Demo with sample data](#heading-4)
+- [Demo with sample data](#sub-heading-4)
 
 
 ## Description
