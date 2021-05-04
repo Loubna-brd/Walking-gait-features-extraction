@@ -14,10 +14,8 @@
 
 - [How to contribute](#sub-heading-6)
 
-- [Acknowledgements](#sub-heading-7)
 
-
-## Description
+### Description
 The following repository presents work on the processing of raw accelerometer data from wearable sensors technologies. It was designed using the activPAL sensor from PAL Technologies Ltd. but can be adapted to other devices. The activPAL sensor is a triaxial accelerometer worn on the thigh. It will give you the tools to extract relevant gait features from labeled accelerometer data. Feature extraction is useful in many domains of gait analysis research such as activity classification or clinical gait characterization. This method was used to isolate walking events from running and other noises from data collected over 14 days. Heart rate data was also collected in this study, although it is possible to use the algorithms without heart rate data. 
 
 ## Stride Detection
@@ -28,5 +26,11 @@ The figure below shows the filtered z-axis acceleration over time and peak detec
 ![image](https://user-images.githubusercontent.com/28069281/116933624-c85f5d00-ac31-11eb-9c49-f3f7f7562a27.png)
 
 ## Features Extraction
+We isolate windows of n strides from which we extract a set of features (script: features_extraction.m & acc_features_extraction.m). The features chosen have different natures, from the basic statistics (mean, standard deviation, etc.), to features specific to gait analysis (stride time, stride frequency, etc.). Some features are normalized using the leg length of participants, measured from the anterior superior iliac spine to the floor, without shoes. A list of the features and their meanings (when applicable) can be found in the file xxx.xxx. 
 
 ## Demo with sample data
+We conducted a demo of the above framework using sample data provided in the folder "sample data". We show here how the features extraction can be used to visualize the data using PCA. 
+
+## How to cite this work
+
+## How to contribute
