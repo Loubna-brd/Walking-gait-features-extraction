@@ -12,7 +12,6 @@
 
 - [How to cite this work](#sub-heading-5)
 
-- [How to contribute](#sub-heading-6)
 
 
 ## Description
@@ -34,4 +33,4 @@ From the raw data, we extracted all activities labelled as stepping using the st
 
 ## How to cite this work
 
-## How to contribute
+If you wish to use this code in your research, kindly acknowledge the authors and the following publication: [Baroudi, L., Yan, X., Newman, M. W., Barton, K., Cain, S. M., & Shorter, K. A. (2022). Investigating walking speed variability of young adults in the real world. Gait & Posture](https://www.sciencedirect.com/user/identity/landing?code=voLNbje-jxVOAzBMIexPoCJ8OcwBQy7GFeJ7t2gq&state=retryCounter%3D0%26csrfToken%3D60628a37-b699-4ff0-a1bf-88d90b94959d%26idpPolicy%3Durn%253Acom%253Aelsevier%253Aidp%253Apolicy%253Aproduct%253Ainst_assoc%26returnUrl%3D%252Fscience%252Farticle%252Fpii%252FS0966636222004775%26prompt%3Dnone%26cid%3Darp-c5b8e6fd-89b5-46de-b557-1ebc8cc6ad50). 
